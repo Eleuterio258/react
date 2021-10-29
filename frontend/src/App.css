@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.modal-body {
+  word-wrap: break-word;
+}
+
+.btn{
+  font-size: 0.9rem;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
